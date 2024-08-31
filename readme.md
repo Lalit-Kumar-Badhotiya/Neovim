@@ -7,9 +7,9 @@
 │   ├── config
 │   │   └── lazy.lua
 │   └── plugins
-│       ├── spec1.lua
-│       ├── **
-│       └── spec2.lua
+│       ├── plugin1.lua
+│       ├── plugin2.lua
+│       └── plugin-Etc.lua
 └── init.lua
 </pre>
 <!-- prettier-ignore-end -->
