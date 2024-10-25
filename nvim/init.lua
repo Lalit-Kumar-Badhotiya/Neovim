@@ -22,5 +22,14 @@ vim.g.mapleader = " "
 
 -- if you are seeing this 
 -- hiii from me (lalit)
---  STFU im not a nerd,
---  and hey!! THANKS NERD.
+-- STFU im not a nerd,
+-- and hey!! THANKS NERD.
+--Important key Bindings and Command
+--   COMMAND
+--1.:VimBeGood
+--2.:Lazy
+--3.:Tutor
+--   Key Bindings
+--1.Ctrl + n ->Reveal Left Neotree Filesystem
+--2.Ctrl + p ->Find file
+--3.Space + fg -> Live Grep
