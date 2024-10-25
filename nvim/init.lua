@@ -29,6 +29,7 @@ vim.g.mapleader = " "
 --1.:VimBeGood
 --2.:Lazy
 --3.:Tutor
+--4.:Lazy
 --   Key Bindings
 --1.Ctrl + n ->Reveal Left Neotree Filesystem
 --2.Ctrl + p ->Find file
