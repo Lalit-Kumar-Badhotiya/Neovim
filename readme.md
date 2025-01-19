@@ -1,6 +1,5 @@
 <h1>File Structure </h1>
 <h3>
-<!-- prettier-ignore-start -->
 <pre>
 ~/.config(Local in windows)/nvim
 ├── lua
