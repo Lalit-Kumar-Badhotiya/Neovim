@@ -36,4 +36,3 @@ vim.g.mapleader = " "
 --3.Space + fg -> Live Grep
 
 
-
