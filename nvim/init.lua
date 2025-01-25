@@ -34,3 +34,4 @@ vim.g.mapleader = " "
 --1.Ctrl + n ->Reveal Left Neotree Filesystem
 --2.Ctrl + p ->Find file
 --3.Space + fg -> Live Grep
+
