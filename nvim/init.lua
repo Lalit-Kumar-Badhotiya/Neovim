@@ -35,3 +35,5 @@ vim.g.mapleader = " "
 --2.Ctrl + p ->Find file
 --3.Space + fg -> Live Grep
 
+
+
