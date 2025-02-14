@@ -11,6 +11,7 @@ vim.g.mapleader = " "
 
 
 
+
 --~/.config(Local in windows)/nvim
 --├── lua
 --│   ├── config
