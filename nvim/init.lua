@@ -23,6 +23,7 @@ vim.g.mapleader = " "
 -- hiii from me (lalit)
 -- STFU im not a nerd,
 -- and hey!! THANKS NERD.
+
 --Important key Bindings and Command
 --   COMMAND
 --1.:VimBeGood
