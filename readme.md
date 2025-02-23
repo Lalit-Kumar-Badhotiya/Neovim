@@ -14,3 +14,30 @@
 </h3>
 
 <h5>Saved my nvim config in case of any doomsday scenario.</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
